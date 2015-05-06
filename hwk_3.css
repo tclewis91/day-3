@@ -1,0 +1,32 @@
+p{
+	color:red;
+}
+h1{
+	color:limegreen;
+	text-align: center;
+
+}
+h5{
+	color:limegreen;
+	text-align: center;
+}
+.babybluestreamer{
+	background-color: rgb(33,119,178);
+	overflow: hidden;
+	height: 50px;
+}
+.whitestreamer{
+	background-color: rgb(225,225,225);
+	float: left;
+	height: 35px;
+	width: 30px;
+	margin-left: 40px;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.navystreamer{
+	background-color: rgb(23,91,147);
+	float:right;
+	height: 50px;
+	width: 30px
+}
