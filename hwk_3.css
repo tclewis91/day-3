@@ -1,32 +1,139 @@
-p{
-	color:red;
+p1, p2, p3, p4, p5, p6, p7{
+	color:white;
 }
-h1{
-	color:limegreen;
+h1, h4, h5{
+	color:white;
 	text-align: center;
+}
+p1{ vertical-align: middle;
+	margin-bottom: 10px;
+	margin-right: 15px;
+	margin-left: 20px;
+}
 
-}
-h5{
-	color:limegreen;
-	text-align: center;
-}
 .babybluestreamer{
 	background-color: rgb(33,119,178);
 	overflow: hidden;
 	height: 50px;
+	color: white;
 }
 .whitestreamer{
-	background-color: rgb(225,225,225);
+	background-color: white;
 	float: left;
 	height: 35px;
 	width: 30px;
 	margin-left: 40px;
-	margin-top:10px;
-	margin-bottom: 10px;
+	margin-top:6px;
+	margin-bottom: 30px;
 }
 .navystreamer{
 	background-color: rgb(23,91,147);
 	float:right;
 	height: 50px;
-	width: 30px
+	width: 180px;
+	color: white;
+}
+.darkblue{
+	padding-top: 80px;
+	padding-bottom: 40px;
+	background-color: rgb(53,65,80);
+	height: 1000px;
+	overflow: hidden;
+	/*padding-right: 350px;
+	padding-left: 300px;*/
+}
+.babyblue{
+	background-color: rgb(40,137,185);
+	height: 58px;
+	border: 12px solid black;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 48px;
+	margin-bottom: 100;
+}
+.tinywhite{
+	background-color:white;
+	height: 25px;
+	margin-left: 320px;
+	margin-bottom: 200px;
+	width: 40px;
+	margin-top: 100px;
+}
+.wrapper{
+	margin-right: 75px;
+	margin-left: 75px;
+	background-color: rgb(53,65,80);
+	overflow: hidden;
+	color: white;
+	margin-bottom: 60px;
+}
+
+.white1{
+	background-color: white;
+	height: 56px;
+	/*margin-top: 190px;
+	margin-right:400px;
+	margin-left: 150px;*/
+	width: 47px;
+	float:left;
+	margin-bottom: 20px;
+}
+.wrapper2{
+	margin-top: 8px;
+	margin-right: 75px;
+	margin-left: 75px;
+	margin-bottom: 20px;
+	background-color: rgb(53,65,80);
+	overflow:hidden;
+	color: white;
+}
+.wrapper3{
+	margin-right: 75px;
+	margin-left: 75px;
+	background-color: rgb(53,65,80);
+	overflow: hidden;
+	color:white;
+	margin-top:38px;
+}
+
+.grey{
+	background-color: rgb(233,240,245);
+	height: 190px;
+	text-align: center;
+	color: grey;
+	word-spacing: 2px;
+	font-size: 30px;
+	line-height: 200%
+}
+.darkgrey{
+	background-color: rgb(200,210,216);
+	height: 1500px;
+	padding-top: 34px;
+	padding-bottom: 34px;
+	padding-left:20px;
+	padding-right: 20px;
+	line-height: 100%
+
+}
+.white2{
+	height: 200px;
+	width: 480px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	line-height: 150%;
+}
+.lightgrey{
+	background-color: rgb(233,240,245);
+	height: 60px;
+	width: 64px;
+	margin-right: auto;
+	margin-left:auto;
+	text-align: center;
+	margin-top: 50px;
+	border:8px solid white;
+	padding-left: 15px;
+	padding-right: 15px;
+
 }
