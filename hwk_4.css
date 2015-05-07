@@ -1,0 +1,26 @@
+
+.babybluebanner{
+	background-color: rgb(46,141,190);
+	height: 48px;
+	overflow: hidden;
+	color: white;
+	margin-right: 20px;
+}
+.navybluebanner{
+	background-color: rgb(29,114,162);
+	height: 60px;
+	float: right;
+	width: 85px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color: white;
+}
+.pict{
+	background: url(crowd.jpg);
+	background-repeat: no-repeat;
+	background color: transparent;
+	height: 1248px;
+	max-width: contain; 
+	overflow:hidden;
+}
