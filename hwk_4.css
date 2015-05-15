@@ -1,26 +1,188 @@
-
+body{
+	font-family: helvetica;
+}
+.bannerwrapper{
+	overflow: hidden;
+}
 .babybluebanner{
 	background-color: rgb(46,141,190);
 	height: 48px;
 	overflow: hidden;
 	color: white;
-	margin-right: 20px;
+	margin-right: ß0px;
 }
 .navybluebanner{
 	background-color: rgb(29,114,162);
 	height: 60px;
 	float: right;
-	width: 85px;
-	margin-right: auto;
-	margin-left: auto;
+	width: 100px;
+	margin-right: 0;
+	margin-left: 0;
 	text-align: center;
 	color: white;
 }
 .pict{
 	background: url(crowd.jpg);
+	height: 800px;
 	background-repeat: no-repeat;
 	background color: transparent;
-	height: 1248px;
-	max-width: contain; 
+	background-size: cover;
 	overflow:hidden;
+	color:white;
+	padding: 80px;
+	vertical-align: center;
+	margin-right: auto,0;
+	margin-left: auto,0;
 }
+.picttext{
+	line-height: 150%;
+	overflow: hidden;
+	margin-left: 60px;
+
+}
+.createbutton{
+	margin-top: 4px;
+	margin-left: 120px;
+	width: 230px;
+	height: 75px;
+	border: 12px solid rgba(0,0,0,.03);
+	background-color: rgb(46,141,190);
+	margin-bottom: 100px;
+}
+span{
+	margin-right: auto;
+	margin-left: 25px;
+	text-align: center;
+}
+.wrapper{
+	margin-top: 60px;
+	margin-right: 75px;
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+.textblock1{
+	content: url(tablet.jpg);
+	float:left;
+	margin-bottom: 20px;
+	margin-right: 20px
+}
+.wrapper2{
+	margin-top: 60px;
+	margin-right: 75px;
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+.textblock2{
+	content: url(newspaper.jpg);
+	float:left;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	margin-right: 21px;
+}
+span{
+	vertical-align: middle;
+	float: left;
+}
+.wrapper3{
+	margin-top: 60px;
+	margin-right: 75px;
+	margin-left: 60px;
+	margin-bottom: 60px;
+}
+
+.textblock3{
+	content: url(paint-brush.jpg);
+	background-color: transparent;
+	float:left;
+	vertical-align: middle;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+span {
+	float:left;
+	vertical-align: middle;
+	padding-left: 20px;
+}
+.motto{
+	background-color: rgb(233,240,245);
+	height: 200px;
+	text-align: center;
+	color: grey;
+	word-spacing: 2px;
+	font-size: 30px;
+	line-height: 200%
+}
+.imagebackdrop{
+	background-color: rgb(200,210,216);
+	height: 1500px;
+	padding-top: 34px;
+	padding-bottom: 34px;
+	padding-left:20px;
+	padding-right: 20px;
+	line-height: 100%;
+	text-align: center;
+	margin: 0,auto;
+}
+
+.text span style {
+text-align: center;
+vertical-align: center;
+margin: 0,auto;
+}
+
+.benefit1{
+	height: 190px;
+	width: 100%;
+	background-color: white;
+	padding-top: 1%;
+	margin-bottom: 5%;
+	line-height: 170%;
+
+
+}
+.image1{
+	background-image:url(lightbulb.jpg);
+	height:51px;
+	width: 45px;
+	border-radius: 50%;
+	margin-left: 47%;
+	text-align: center;
+}
+
+.advertisement_block{
+	background-color: rgb(233,240,245);
+	height: 250px;
+	text-align: 0,auto;
+	width: 100%;
+	padding-bottom: 40px;
+	overflow: hidden;
+}
+.wordpress_prompt{
+	text-align: 0,auto;
+	font-size: 28px;
+	display: inline-block;
+	height: 50px;
+
+}
+.createbutton2{
+	margin: 0,auto;
+	width: 200px;
+	height: 60px;
+	background-color: rgb(46,141,190);
+	display: inline-block;
+	padding:10px
+}
+.black{
+	background-color: black;
+	color: white;
+	height: 130px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	line-height: 200%;
+	padding-top: 30px;
+word-spacing: 120%;
+letter-spacing: 140%;
+}
+
